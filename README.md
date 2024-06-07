@@ -4,8 +4,8 @@
 
 2. Configuraremos nuestras credenciales con los siguientes comandos (Copiar y pegar en la terminal)
 
-   git config --global user.name "TU NOMBRE"
-   git config --global user.email "TuCorreo@ejemplo.com"
+   `git config --global user.name "TU NOMBRE"`
+   `git config --global user.email "TuCorreo@ejemplo.com"`
 
 3. Prepararemos nuestro archivo para clonar
 
